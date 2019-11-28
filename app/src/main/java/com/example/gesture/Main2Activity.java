@@ -58,8 +58,5 @@ public class Main2Activity extends AppCompatActivity {
         }
     };
 
-    public void test2(View view) {
-        Intent intent = new Intent(Main2Activity.this,Main3Activity.class);
-        startActivity(intent);
-    }
+
 }

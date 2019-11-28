@@ -6,11 +6,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".Main2Activity">
-    <Button
-        android:onClick="test2"
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
 
     <View
         android:background="#EE0303"
